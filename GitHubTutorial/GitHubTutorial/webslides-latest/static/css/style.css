@@ -1,0 +1,15 @@
+.PlanViewButton
+{
+   color: aliceblue !important;
+   padding: 100px;
+}
+.planView{
+
+   margin-left: 280px !important;
+}
+.createButtonDiv{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+}
