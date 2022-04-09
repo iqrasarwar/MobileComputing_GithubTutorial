@@ -7,8 +7,8 @@ A Beginers Tutorial Of GitHub
 - GitHub Repostries
 -    Create A New Repostiry
 -    QuickSetup
-+     Creating a New File
-+     Upload an existing file
++    Creating a New File
++    Upload an existing file
 -    Git
 -    Git vs GitHub
 -    Git SetUp(Download & Configure)
