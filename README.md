@@ -5,4 +5,4 @@ A Beginers Tutorial Of GitHub
 - How To SetUp Account
 - GiHub Plans
 - GitHub Repostries
-..* Create A New Repostiry
+-* Create A New Repostiry
