@@ -31,6 +31,12 @@
 
     <main role="main">
       <article id="webslides" class="vertical">
+        <section class="bg-black aligncenter slide">
+          <span class="background light" style="background-image:url('static/images/landingg.webp')"></span>
+          <div class="wrap">
+            <h1 class="text-landing text-shadow"><strong>GETTING STARTED WITH GIT & GITHUB</strong></h1>
+          </div>
+        </section>
         <section>
          <span class="background"></span>
           <div class="wrap size-50 aligncenter">
@@ -825,6 +831,23 @@
              <button class="button">
                <a href="https://docs.github.com/en/enterprise-server@3.1/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository"  class="PlanViewButton">Explore More</a>
               </button>
+           </div>
+         </section>
+         <section>
+          <span class="background"></span>
+           <div class="wrap">
+             <h2 class="aligncenter"><strong>IGNORED FILES(.GITIGNORE)</strong></h2>
+             <p class="text-intro">Ignored are files which Git has been explicitly told to ignore. These are usually build artifacts and machine generated files that can be derived from your repository source or should otherwise not be committed. Some common examples are:
+              </p>
+              <ul>
+                <li>dependency caches, such as the contents of /node_modules or /packages</li>
+                <li>compiled code, such as .o, .pyc, and .class files</li>
+                <li>build output directories, such as /bin, /out, or /target</li>
+                <li>files generated at runtime, such as .log, .lock, or .tmp</li>
+                <li>hidden system files, such as .DS_Store or Thumbs.db</li>
+                <li>personal IDE config files, such as .idea/workspace.xml</li>
+              </ul>
+             <p class="text-intro">Ignored files are tracked in a special file named .gitignore that is checked in at the root of your repository. There is no explicit git ignore command: instead the .gitignore file must be edited and committed by hand when you have new files that you wish to ignore. .gitignore files contain patterns that are matched against file names in your repository to determine whether or not they should be ignored.</p>
            </div>
          </section>
         <!-- Thank you -->
