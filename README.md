@@ -1,5 +1,5 @@
 # MobileComputing
-A Beginers Tutorial Of GitHub <br />
+### A Beginers Tutorial Of GitHub <br />
 This site is published at: https://iqrasarwar.github.io/MobileComputing_GithubTutorial/GitHubTutorial/webslides-latest/myDesign.html
 It covers a bird's eyeView of following:
 - Introduction
@@ -20,5 +20,5 @@ It covers a bird's eyeView of following:
 -    Git Merge Conflicts
 -    Github ReadMe
 -    Licensing a repository
--    IGNORED FILES(.GITIGNORE)
+-    Ignored Files(.GITIGNORE)
 ### Thank You For Visiting!
