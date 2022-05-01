@@ -1,5 +1,5 @@
 # MobileComputing
-A Beginers Tutorial Of GitHub
+A Beginers Tutorial Of GitHub <br />
 This site is published at: https://iqrasarwar.github.io/MobileComputing_GithubTutorial/GitHubTutorial/webslides-latest/myDesign.html
 It covers a bird's eyeView of following:
 - Introduction
@@ -8,8 +8,8 @@ It covers a bird's eyeView of following:
 - GitHub Repostries
 -    Create A New Repostiry
 -    QuickSetup
-+    Creating a New File
-+    Upload an existing file
+-    Creating a New File
+-    Upload an existing file
 -    Git
 -    Git vs GitHub
 -    Git SetUp(Download & Configure)
